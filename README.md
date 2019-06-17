@@ -29,7 +29,7 @@ nightstalker | Actualizado 16/06/2019 | 100% Traducido
 Profile Wall | Actualizado 15/06/2019 | 20% Traducido
 Emails on registration opt-in-out | Actualizado 16/06/2019 | 100% Traducido
 svg | Actualizado 16/06/2019 | 80% Traducido
-2-step Authentication | Actualizado 17/06/2019 | 80% Traducido
+2-step Authentication | Actualizado 17/06/2019 | 82% Traducido
 BBAvatars | Actualizado 15/06/2019 | 100% Traducido
 LIKEBB - AJAX LIKE/DISLIKE ADVANCED | Actualizado 17/06/2019 | 100% Traducido (@franht1)
 bbprefix | Actualizado 17/06/2019 | 100 % Traducido (@franht1)

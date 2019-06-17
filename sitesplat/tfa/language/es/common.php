@@ -64,7 +64,7 @@ $lang = array_merge(
 'TFA_UNABLE_TO_UPDATE_SESSION' => 'No se puede actualizar la sesión. Por favor, póngase en contacto con el administrador de la junta ',
 'TFA_DISABLED' => 'La autenticación de dos factores ha sido deshabilitada',
 
-'TFA_OTP_KEY_LOG' => 'Clave generada aquí y luego presione enviar',
+'TFA_OTP_KEY_LOG' => 'Ingrese la clave generada en el Autenticador de Google y luego presione enviar',
 'TFA_OTP_KEY_LOG_EXPLAIN' => 'Ingrese el código de verificación generado por la aplicación de autenticador desde su teléfono para iniciar sesión en su cuenta de manera segura.',
 'TFA_INCORRECT_KEY' => 'La clave provista fue incorrecta.',
 'TFA_NO_KEY_PROVIDED' => 'No se proporcionó ninguna clave',
