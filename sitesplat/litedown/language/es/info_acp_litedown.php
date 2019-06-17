@@ -1,6 +1,6 @@
 <?php
 /**
-*
+* @maxedrom [Español]
 * BBmarkdown
 * @copyright (c) 2015 SiteSplat All rights reserved
 * @license Proprietary

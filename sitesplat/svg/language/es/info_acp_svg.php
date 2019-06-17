@@ -1,8 +1,8 @@
 <?php
 /**
 *
-* common [English]
-*
+* common [Español]
+* @maxedrom 
 * @package BBsvg
 * @copyright (c) 2017 SiteSplat All rights reserved
 * @license Proprietary

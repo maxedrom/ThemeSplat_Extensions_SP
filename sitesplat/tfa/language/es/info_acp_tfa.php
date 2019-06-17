@@ -1,6 +1,6 @@
 <?php
 /**
-*
+* @maxedrom [Español]
 * @package Two Factor Authentication
 * @copyright (c) 2016 SiteSplat All rights reserved
 * @license Proprietary

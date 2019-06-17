@@ -1,6 +1,6 @@
 <?php
 /**
-*
+* @maxedrom [Español]
 * BBopengraph
 *
 * @copyright (c) 2015 SiteSplat All rights reserved

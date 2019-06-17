@@ -1,6 +1,6 @@
 <?php
 /**
-*
+* @maxedrom [Español]
 * Cloudflare IP
 *
 * @copyright (c) 2016 SiteSplat All rights reserved
