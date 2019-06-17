@@ -9,7 +9,7 @@ Seguramente abra que mejorar alguna traduccion, lo ire haciendo a medida que vay
 En este Repositorio, vas a encontrar las siguientes traducciones:
 
 
-Nombre Extension | Ultima Actualización | Porcentaje de la Traduccion
+Nombre Extension | Ultima Actualización | Porcentaje de la Traducción
 -----------------|----------------------|-----------------------------
 bbavatarresize | Actualizado 16/06/2019 | 100% Traducido
 BBCore | Actualizado 16/06/2019 | 100% Traducido
@@ -29,11 +29,11 @@ nightstalker | Actualizado 16/06/2019 | 100% Traducido
 Profile Wall | Actualizado 15/06/2019 | 20% Traducido
 Emails on registration opt-in-out | Actualizado 16/06/2019 | 100% Traducido
 svg | Actualizado 16/06/2019 | 80% Traducido
-2-step Authentication | Actualizado 17/06/2019 | 80% Traducido "Texto traducido completo para el usuario"
+2-step Authentication | Actualizado 17/06/2019 | 80% Traducido
 BBAvatars | Actualizado 15/06/2019 | 100% Traducido
-LIKEBB - AJAX LIKE/DISLIKE ADVANCED | Actualizado 17/06/2019 | 100% Traducido (Compartido por @franht1)
-bbprefix | Actualizado 17/06/2019 | 100 % Traducido (Compartido por @franht1)
-bbpoints | Actualizado 17/06/2019 | 100 % Traducido (Compartido por @franht1)
+LIKEBB - AJAX LIKE/DISLIKE ADVANCED | Actualizado 17/06/2019 | 100% Traducido (@franht1)
+bbprefix | Actualizado 17/06/2019 | 100 % Traducido (@franht1)
+bbpoints | Actualizado 17/06/2019 | 100 % Traducido (@franht1)
 
 * Gracias 
 :+1: :sparkles: :camel: :tada:
