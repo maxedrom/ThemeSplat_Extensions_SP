@@ -21,7 +21,7 @@ bbootsminicms | Actualizado 16/06/2019 | 100% Traducido
 bbopengraph | Actualizado 16/06/2019 | 100% Traducido
 bbwatermark | Actualizado 16/06/2019 | 100% Traducido
 cloudflareip | Actualizado 16/06/2019 | 100% Traducido
-bbdonation | Actualizado 17/06/2019 | 80% Traducido
+bbdonation | Actualizado 17/06/2019 | 90% Traducido
 imgur | Actualizado 16/06/2019 | 100% Traducido
 bbmarkdown | Actualizado 16/06/2019 | 100% Traducido
 BBlivePreview | Actualizado 16/06/2019 | 100% Traducido
