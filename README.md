@@ -35,7 +35,9 @@ LIKEBB - AJAX LIKE/DISLIKE ADVANCED | Actualizado 17/06/2019 | 100% Traducido (@
 bbprefix | Actualizado 17/06/2019 | 100 % Traducido (@franht1)
 bbpoints | Actualizado 17/06/2019 | 100 % Traducido (@franht1)
 
+* Tus reportes, o comentarios son bienvenido, si encontras algo mal en alguna traducción, tomate unos minutos y explicame asi lo arreglo.
 *¿Querés reportar un problema? [x] https://github.com/maxedrom/ThemeSplat_Extensions_SP/issues
+
 
 * Gracias 
 :+1: :sparkles: :camel: :tada:
