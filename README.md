@@ -1,4 +1,5 @@
 # ThemeSplat_Extensions_SP por @Maxedrom
+# Tema Original: http://www.sitesplat.com/phpBB3/viewtopic.php?t=4793
 Aquí encontraras las traducciones de las extensiones de ThemeSplat, algunas ya estaban traducidas, otras las tuve que traducir pot mi cuenta.
 No recibo ningun dinero por parte de nadie por hacerlo. Estoy haciendolo en mis tiempos Libres.
 
@@ -35,6 +36,12 @@ LIKEBB - AJAX LIKE/DISLIKE ADVANCED | Actualizado 17/06/2019 | 100% Traducido (@
 bbprefix | Actualizado 17/06/2019 | 100% Traducido (@franht1)
 bbpoints | Actualizado 17/06/2019 | 100% Traducido (@franht1)
 bbvote | Actualizado 19/06/2019 | 100% Traducido (@franht1)
+
+Problema con la Palabra Estadística que no encaja en BBOOTS:
+[img]https://i.imgur.com/5Y4cz1Y.png[/img]
+Solución: http://www.sitesplat.com/phpBB3/viewtopic.php?f=15&t=2626
+
+
 
 * Tus reportes, o comentarios son bienvenido, si encontras algo mal en alguna traducción, tomate unos minutos y explicame asi lo arreglo.
 *¿Querés reportar un problema? [x] https://github.com/maxedrom/ThemeSplat_Extensions_SP/issues
