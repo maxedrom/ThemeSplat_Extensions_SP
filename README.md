@@ -32,8 +32,9 @@ svg | Actualizado 16/06/2019 | 80% Traducido
 2-step Authentication | Actualizado 17/06/2019 | 82% Traducido
 BBAvatars | Actualizado 15/06/2019 | 100% Traducido
 LIKEBB - AJAX LIKE/DISLIKE ADVANCED | Actualizado 17/06/2019 | 100% Traducido (@franht1)
-bbprefix | Actualizado 17/06/2019 | 100 % Traducido (@franht1)
-bbpoints | Actualizado 17/06/2019 | 100 % Traducido (@franht1)
+bbprefix | Actualizado 17/06/2019 | 100% Traducido (@franht1)
+bbpoints | Actualizado 17/06/2019 | 100% Traducido (@franht1)
+bbvote | Actualizado 19/06/2019 | 100% Traducido (@franht1)
 
 * Tus reportes, o comentarios son bienvenido, si encontras algo mal en alguna traducción, tomate unos minutos y explicame asi lo arreglo.
 *¿Querés reportar un problema? [x] https://github.com/maxedrom/ThemeSplat_Extensions_SP/issues
