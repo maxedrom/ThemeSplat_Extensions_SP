@@ -36,6 +36,8 @@ LIKEBB - AJAX LIKE/DISLIKE ADVANCED | Actualizado 17/06/2019 | 100% Traducido (@
 bbprefix | Actualizado 17/06/2019 | 100% Traducido (@franht1)
 bbpoints | Actualizado 17/06/2019 | 100% Traducido (@franht1)
 bbvote | Actualizado 19/06/2019 | 100% Traducido (@franht1)
+bblinks | Actualizado 22/06/2019 | 100% Traducido (@franht1)
+subjectcheck | Actualizado 22/06/2019 | 100% Traducido (@franht1)
 
 Problema con la Palabra Estadística que no encaja en BBOOTS:
 [img]https://i.imgur.com/5Y4cz1Y.png[/img]
