@@ -40,6 +40,7 @@ bblinks | Actualizado 22/06/2019 | 100% Traducido (@franht1)
 subjectcheck | Actualizado 22/06/2019 | 100% Traducido (@franht1)
 bbchat | Actualizado 22/06/2019 | 90% Traducido 
 bblightbox | Actualizado 22/06/2019 | 30% Traducido
+bbgdpr | | Actualizado 30/06/2019 | 80% Traducido
 
 Problema con la Palabra Estadística que no encaja en BBOOTS:
 [img]https://i.imgur.com/5Y4cz1Y.png[/img]
