@@ -2,7 +2,7 @@
 /**
 *
 * common [Spanish]
-* @maxedrom
+*
 * @package language
 * @version $Id$
 * @copyright (c) 2014 SiteSplat.com
