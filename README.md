@@ -12,7 +12,26 @@ En este Repositorio, vas a encontrar las siguientes traducciones:
 
 Nombre Extension | Ultima Actualización | Porcentaje de la Traducción
 -----------------|----------------------|-----------------------------
+Categorize | Actualizado 16/06/2019 | 100% Traducido
+Smart Snappy Reply | Actualizado 16/06/2019 | 100% Traducido
+smartemoticons | Actualizado 16/06/2019 | 100% Traducido
+Minecraft Board Avatars - API addon | Actualizado 16/06/2019 | 100% Traducido
+E-mail Subscribers | Actualizado 16/06/2019 | 100% Traducido
+flatbootsminicms | Actualizado 16/06/2019 | 100% Traducido
+bbootsbootsminicms | Actualizado 16/06/2019 | 100% Traducido
+bbsteam | Actualizado 16/06/2019 | 100% Traducido
+bbreaction | Actualizado 16/06/2019 | 100% Traducido
+bbtpreview | Actualizado 16/06/2019 | 100% Traducido
+bbavatar+ | Actualizado 16/06/2019 | 100% Traducido
 bbavatarresize | Actualizado 16/06/2019 | 100% Traducido
+bbmembership | Actualizado 16/06/2019 | 100% Traducido
+BBAwards_AutoGroups | Actualizado 16/06/2019 | 100% Traducido
+BBAwards | Actualizado 16/06/2019 | 100% Traducido
+BBAvatar | Actualizado 28/07/2019 | 100% Traducido
+bbcodeorder | Actualizado 28/07/2019 | 100% Traducido
+bbbreadcrumbs | Actualizado 28/07/2019 | 100% Traducido
+bbawards_Premium_Rules | Actualizado 28/07/2019 | 100% Traducido
+bbdownload | Actualizado 28/07/2019 | 100% Traducido
 BBCore | Actualizado 16/06/2019 | 100% Traducido
 bbembed | Actualizado 17/06/2019 | 100% Traducido
 bbemoji | Actualizado 17/06/2019 | 100% Traducido
@@ -27,7 +46,7 @@ imgur | Actualizado 16/06/2019 | 100% Traducido
 bbmarkdown | Actualizado 16/06/2019 | 100% Traducido
 BBlivePreview | Actualizado 16/06/2019 | 100% Traducido
 nightstalker | Actualizado 16/06/2019 | 100% Traducido
-Profile Wall | Actualizado 15/06/2019 | 20% Traducido
+Profile Wall | Actualizado 28/07/2019 | 100% Traducido
 Emails on registration opt-in-out | Actualizado 16/06/2019 | 100% Traducido
 svg | Actualizado 16/06/2019 | 80% Traducido
 2-step Authentication | Actualizado 17/06/2019 | 82% Traducido
@@ -56,3 +75,4 @@ Solución: http://www.sitesplat.com/phpBB3/viewtopic.php?f=15&t=2626
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat: 
 
+Estas Agradecido??? No se hable mas Doname via PayPal (maxelocked@gmail.com)
