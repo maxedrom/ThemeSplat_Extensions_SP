@@ -12,6 +12,10 @@ En este Repositorio, vas a encontrar las siguientes traducciones:
 
 Nombre Extension | Ultima Actualización | Porcentaje de la Traducción
 -----------------|----------------------|-----------------------------
+bbtags | Actualizado 16/06/2019 | 100% Traducido
+bbrandom | Actualizado 16/06/2019 | 100% Traducido
+bbadblock | Actualizado 16/06/2019 | 100% Traducido
+bbsidebar | Actualizado 16/06/2019 | 100% Traducido
 Categorize | Actualizado 16/06/2019 | 100% Traducido
 Smart Snappy Reply | Actualizado 16/06/2019 | 100% Traducido
 smartemoticons | Actualizado 16/06/2019 | 100% Traducido
@@ -75,4 +79,4 @@ Solución: http://www.sitesplat.com/phpBB3/viewtopic.php?f=15&t=2626
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat: 
 
-Estas Agradecido??? No se hable mas Doname via PayPal (maxelocked@gmail.com)
+Estas Agradecido??? No se hable mas Doname via PayPal ( https://paypal.me/mbley )
