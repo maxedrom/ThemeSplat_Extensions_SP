@@ -2,8 +2,10 @@
 /**
 *
 * Profile Wall
+*
 * @copyright (c) 2015 SiteSplat All rights reserved
 * @license Proprietary
+* Spanish translation: ThE KuKa ( Raul Arroyo ) - http://www.phpbb-es.com
 *
 */
 
@@ -18,49 +20,49 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'PROFILE_COMMENT'		=> 'Profile Comment',
-	'PROFILE_COMMENTS'		=> 'Profile Comments',
-	'XS_COMMENT'			=> 'Comments',
-	'XS_REPLIES'			=> 'Replies',
-	
-	'WALL'      			=> 'Wall',
+	'PROFILE_COMMENT'		=> 'Comentario de Perfil',
+	'PROFILE_COMMENTS'		=> 'Comentarios de Perfil',
+	'XS_COMMENT'			=> 'Comentarios',
+	'XS_REPLIES'			=> 'Respuestas',
 
-	'MESSAGE_NOT_EXISTS'	=> 'That message does not exist.',
-	'NO_POST_PERMISSION'	=> 'Looks like you have no permission to post',
-    'INFOMSG'			    => 'Heads up!',
-	
-	'EDIT_NO_PERMISSION'	=> 'You do not have permission to edit that comment.',
-	'EDIT_NO_POSTED_DATA'	=> 'No data was given for editing.',
-	'SUCCESSFUL_EDIT'		=> 'Message was successfully edited!',
-	'SUCCESSFUL_ADDED'		=> 'Message was successfully added!',
-	'EDIT_GET_MUST_AJAX'	=> 'Retrieving message for editing must be done via AJAX.',
-	'MESSAGE_NOT_EXISTS'	=> 'That message does not exist.',
-	'MESSAGE_TO_SHORT'		=> 'This message is too short.',
-	
-	'POST_COMMENT'			=> 'Post Comment',
-	'RESTORE'				=> 'Restore',
-	'SOFT_DELETED'			=> 'Soft Deleted',
+	'WALL'      			=> 'Muro',
 
-	'AJAX_ISSUE'			=> 'There was an AJAX issue :-|',
+	'MESSAGE_NOT_EXISTS'	=> 'No existe este mensaje.',
+	'NO_POST_PERMISSION'	=> 'Parece que no tiene permiso para publicar',
+    'INFOMSG'			    => '¡ Aviso !',
 
-	'IS_SOFT_DELETED'		=> 'This comment has been soft deleted.',
-	'IS_EDITED'				=> 'This message was edited.',
-	'S_DEL'					=> 'Soft Delete',
-	'S_RESTORE'				=> 'Restore Soft Deleted Comment',
-	'S_DEL_CONFIRM'			=> 'Are you sure you would like to soft delete this comment? Note that the comment will still be visible to the board\'s moderators.',
-	'S_RESTORE_CONFIRM'		=> 'Are you sure you would like to restore this comment?',
-	'DELETE_NO_PERMISSION'	=> 'You do not have permission to delete comments.',
+	'EDIT_NO_PERMISSION'	=> 'No tiene permiso para editar el comentario.',
+	'EDIT_NO_POSTED_DATA'	=> 'No hay datos para editar.',
+	'SUCCESSFUL_EDIT'		=> 'El mensaje ha sido editado correctamente.',
+	'SUCCESSFUL_ADDED'		=> 'El mensaje ha sido añadido correctamente.',
+	'EDIT_GET_MUST_AJAX'	=> 'Recuperando mensaje para la edición, se debe hacer a través de AJAX.',
+	'MESSAGE_NOT_EXISTS'	=> 'No existe este mensaje.',
+	'MESSAGE_TO_SHORT'		=> 'Este mensaje es corto.',
 
-	'LIKE'						=> 'Like this comment or reply',
-	'LIKE_OWN_POST_ERROR'		=> 'You cannot like/dislike your own post.',
-	'LIKE_LIKE_TIME_ERROR'		=> 'You can not like - dislike a post so fast!',
-	'LIKE_DISLIKE_REMOVE_INFO'	=> 'To remove your dislike, click the dislike button.',
-	'LIKE_LIKE_REMOVE_INFO'		=> 'To remove your like, click the like button.',
-	'LIKE_POST_NO_AUTH'			=> 'You are not authorized to like/dislike this post.',
-	'LIKE_MODE_ERROR'			=> 'Mode does not exist',
-	'LIKE_POST_ERROR'			=> 'Post does not exist',
-	'LIKES_REMOVED'				=> 'Like Removed',
-	'LIKES_GIVEN'				=> 'Like Given',	
-		
-	'PROFILE_RETURN'		=> 'Return to user\'s profile',
+	'POST_COMMENT'			=> 'Enviar Comentario',
+	'RESTORE'				=> 'Restaurar',
+	'SOFT_DELETED'			=> 'Borrado Soft',
+
+	'AJAX_ISSUE'			=> 'Había un problema AJAX.',
+
+	'IS_SOFT_DELETED'		=> 'Este comentario ha sido borrado por Soft.',
+	'IS_EDITED'				=> 'Este mensaje ha sido editado.',
+	'S_DEL'					=> 'Borrado Soft',
+	'S_RESTORE'				=> 'Restaurar comentario borrado por Soft',
+	'S_DEL_CONFIRM'			=> '¿Está seguro de querer borrar este comentario por Soft? Tenga en cuenta que el comentario aún será visible para los Moderadores del Foro.',
+	'S_RESTORE_CONFIRM'		=> '¿Está seguro de querer restaurar este comentario?',
+	'DELETE_NO_PERMISSION'	=> 'No tiene permiso para borrar comentarios.',
+
+	'LIKE'						=> 'Me Gusta este comentario o respuesta',
+	'LIKE_OWN_POST_ERROR'		=> 'No puede usar Me Gusta/No Me Gusta en su propio mensaje.',
+	'LIKE_LIKE_TIME_ERROR'		=> '¡No puede usar Me Gusta - No Me Gusta un mensaje tan rápido!',
+	'LIKE_DISLIKE_REMOVE_INFO'	=> 'Para eliminar su No Me Gusta, haga clic en el botón de No Me Gusta.',
+	'LIKE_LIKE_REMOVE_INFO'		=> 'Para eliminar su Me Gusta, haga clic en el botón de Me Gusta.',
+	'LIKE_POST_NO_AUTH'			=> 'No está autorizado para dar Me Gusta/No Me Gusta en este mensaje.',
+	'LIKE_MODE_ERROR'			=> 'El modo no existe',
+	'LIKE_POST_ERROR'			=> 'El mensaje no existe',
+	'LIKES_REMOVED'				=> 'Me Gusta eliminado',
+	'LIKES_GIVEN'				=> 'Me Gusta otorgado',	
+
+	'PROFILE_RETURN'		=> 'Volver al Perfil del usuario',
 ));
